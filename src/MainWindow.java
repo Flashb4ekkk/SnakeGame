@@ -12,6 +12,10 @@ public class MainWindow extends JFrame {
         System.out.println("it's will be try for next commit");
         System.out.println("123");
         System.out.println("123");
+
+        TryForGitProject obj1 = new TryForGitProject();
+        TryForGitProject obj2 = new TryForGitProject(3);
+
     }
 }
 
